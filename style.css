@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.navbar {
+    background: rgb(237, 250, 237);
+    text-align: center;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 93vh;
+    transition: -1s;
+}
